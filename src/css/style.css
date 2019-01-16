@@ -1,0 +1,63 @@
+nav {
+  background: url("./overlay2.png");
+  border-bottom: 1px solid #104d1d; }
+
+body {
+  background-color: #212529;
+  color: white; }
+
+.text-primary {
+  color: #218838 !important; }
+
+.text-primary {
+  color: #e9ecef; }
+
+.btn-link {
+  color: #218838; }
+
+.btn-link:hover {
+  color: #218848; }
+
+.thead-inverse {
+  background: url("./overlay2.png"); }
+
+.card-header {
+  background: url("./overlay2.png"); }
+
+.card-body {
+  background-color: rgba(0, 0, 0, 0.2); }
+
+.outline-danger {
+  text-shadow: 2px 2px 4px #000000; }
+
+.card {
+  background-color: rgba(0, 0, 0, 0.2);
+  border: 0.1em solid #104d1d; }
+
+.list-group-item {
+  background-color: rgba(0, 0, 0, 0.2); }
+
+tr,
+td {
+  border-top: 1px solid #104d1d;
+  border-bottom: 1px solid #104d1d; }
+
+.table thead th {
+  border-top: 1px solid #104d1d;
+  border-bottom: 2px solid #104d1d; }
+
+.table-striped tbody tr {
+  background-color: rgba(0, 0, 0, 0.2); }
+
+.table-striped tbody tr:nth-of-type(2n + 1) {
+  background-color: rgba(0, 0, 0, 0.4); }
+
+hr {
+  border-top: 1px solid #104d1d; }
+
+.form-control {
+  background-color: #e9ecef; }
+
+.form-control:disabled {
+  background-color: #495057;
+  color: #fff; }
